@@ -42,7 +42,7 @@ O diagrama representa a arquitetura de um sistema na AWS, mostrando como os serv
 
 ## Arquitetura Serverless mínima — S3 + Lambda
 
-![Desafio AWS](https://github.com/user-attachments/assets/42fce601-0637-4bcc-9f0e-0da853d27599)
+![arquitetura_s3_lambda](https://github.com/user-attachments/assets/9f42d26b-5e79-47eb-8558-74ba8bddaed4)
 
 ### Fluxo resumido
 
@@ -53,7 +53,7 @@ O diagrama representa a arquitetura de um sistema na AWS, mostrando como os serv
 
 ## Arquitetura Simples com VM — EC2 + EBS + S3
    
-![Desafio AWS (1)](https://github.com/user-attachments/assets/cf46337a-4a8a-4a49-bf1b-d14222a7581c)
+![arquitetura_ec2_ebs_s3](https://github.com/user-attachments/assets/66fecc40-c813-4a63-a933-5454e5365cd0)
 
 ### Fluxo resumido
 
